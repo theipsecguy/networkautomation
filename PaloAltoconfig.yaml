@@ -1,0 +1,6 @@
+palo_alto:
+  username: "insert-your-username-here"
+  password: "insert-your-password-here"
+  devices:
+    - ip: "1.1.1.1"
+      hostname: "Main-FW"
